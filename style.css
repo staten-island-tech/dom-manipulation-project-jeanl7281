@@ -1,0 +1,51 @@
+body {
+  margin-left: 40%;
+  margin-right: 40%;
+  background-color: #bcf2ff;
+  font-family: 'Bitter', serif;
+  font-size: 25px;
+  
+}
+.output {
+  margin-right: 600px;
+  background-color:  #7baad6;
+  border: 15px solid #99ceec;
+  border-radius: 10px;
+  width: 500px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  text-align: center;
+}
+.image-input {
+  width: 100%;
+}
+input { 
+  margin-bottom: 10px;
+}
+#submit {
+  background-color: white;
+  color: black;
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 900;
+  text-align: center;
+  
+}
+.button {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: white;
+  color: black;
+  width: 80px;
+  height: 25px;
+  font-size: 15px;
+  font-weight: 900;
+  text-align: center;
+}
+
+#submit.hover {
+  color: #7baad6;
+  background-color: #99ceec;
+;
+}
