@@ -1,0 +1,87 @@
+
+*,
+html,
+body {
+  font-size: 50.5%;
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+
+}
+#container-box{
+    background-color: skyblue;
+    display: flex;
+    font-size: 5rem;
+    color: white;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 80rem;
+    padding: 5rem ;
+    font-family: 'Bitter', serif;
+}
+#container-box2{
+    background-color: blueviolet ;
+    display: flex;
+    font-size: 5rem;
+    color: white;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 80rem;
+    padding: 5rem ;
+    font-family: 'Bitter', serif;
+}
+#container-box3{
+    background-color: violet;
+    display: flex;
+    font-size: 5rem;
+    color: white;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 80rem;
+    padding: 5rem ;
+    margin-bottom: 1rem;
+    font-family: 'Bitter', serif;
+}
+#submit{
+  font-size: 10rem;
+  display: flex;
+  align-items: center;
+  align-content: center;
+}
+
+.objectbox{
+  display: flex;
+  font-size: 5rem;
+  width: 80vw;
+  margin: 1rem;
+  flex-direction: column;
+  text-align: center  ;
+  flex-wrap: wrap;
+  text-align: center;
+  align-content: center;
+  background-color: lightblue;
+  border: 0.5rem solid lightgrey;
+  font-family: 'Bitter', serif;
+  
+}
+.imgView{
+  width: 60rem;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+#tempBtn{
+  width: 10rem;
+}
+#btn2{
+  font-size: 3rem;
+  width: 5rem;
+}
