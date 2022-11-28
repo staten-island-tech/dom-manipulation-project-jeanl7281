@@ -84,6 +84,7 @@ body {
 }
 #tempBtn{
   width: 10rem;
+  margin-bottom: 5px;
 }
 #btn2{
   font-size: 3rem;
