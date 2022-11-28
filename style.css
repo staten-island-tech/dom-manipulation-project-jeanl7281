@@ -17,9 +17,11 @@ body {
     justify-items: center;
     flex-direction: column;
     flex-wrap: wrap;
-    width: 80rem;
+    width: 100rem;
     padding: 5rem ;
     font-family: 'Bitter', serif;
+    margin-top: 5rem;
+    margin-left: 75rem;
 }
 #container-box2{
     background-color: blueviolet ;
@@ -31,9 +33,10 @@ body {
     justify-items: center;
     flex-direction: column;
     flex-wrap: wrap;
-    width: 80rem;
+    width: 100rem;
     padding: 5rem ;
     font-family: 'Bitter', serif;
+    margin-left: 75rem;
 }
 #container-box3{
     background-color: violet;
@@ -45,10 +48,12 @@ body {
     justify-items: center;
     flex-direction: column;
     flex-wrap: wrap;
-    width: 80rem;
+    width: 100rem;
     padding: 5rem ;
     margin-bottom: 1rem;
     font-family: 'Bitter', serif;
+    margin-bottom: 1rem;
+    margin-left: 75rem;
 }
 #submit{
   font-size: 10rem;
@@ -60,8 +65,7 @@ body {
 .objectbox{
   display: flex;
   font-size: 5rem;
-  width: 80vw;
-  margin: 1rem;
+  width: 100rem;
   flex-direction: column;
   text-align: center  ;
   flex-wrap: wrap;
@@ -70,7 +74,8 @@ body {
   background-color: lightblue;
   border: 0.5rem solid lightgrey;
   font-family: 'Bitter', serif;
-  
+  margin: 5rem;
+  margin-left: 75rem;
 }
 .imgView{
   width: 60rem;
